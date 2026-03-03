@@ -38,20 +38,24 @@
 - Strengthen fundamentals of Python libraries
 - Practice real-world implementation
   
-
+pip install numpy pandas scikit-learn flask opencv-python
 ---
 
 ## 🛠 Requirements
 
 Install dependencies using:
 
-```bash
 pip install numpy pandas scikit-learn flask opencv-python
 
 ---
+## Run
 python numpyex.py
 python pandasexs.py
 python flaskex.py
 python opencvex.py
 python sklearnex.py
+
 ---
+
+
+
